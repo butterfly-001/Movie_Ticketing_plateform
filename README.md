@@ -1,4 +1,4 @@
-# Movie_Ticket_booking
+# Movie_Ticketing_Platform
 Movie Ticket Booking Using Java &amp; Mysql
 Sure! Here's a concise and structured README file for a "Movie Booking System" project using Java and MySQL:
 
